@@ -1,0 +1,2000 @@
+La pila es:[]
+El tope de la pila es 8
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 8
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 8
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 5705 en pila
+Regresa: 0 [ 5705 ]
+
+La pila es:[ 5705 ]
+El tope de la pila es 5705
+Regresa: 0 [ 5705 ]
+
+La pila es:[ 5705 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 9961 en pila
+Regresa: 0 [ 9961 ]
+
+La pila es:[ 9961 ]
+El tope de la pila es 9961
+Regresa: 0 [ 9961 ]
+
+La pila es:[ 9961 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 4827 en pila
+Regresa: 0 [ 4827 ]
+
+La pila es:[ 4827 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 14604 en pila
+Regresa: 0 [ 14604 ]
+
+La pila es:[ 14604 ]
+Inserta 153 en pila
+Regresa: 0 [ 14604  153 ]
+
+La pila es:[ 14604  153 ]
+Elimina dato de la pila
+Regresa: 0 [ 14604 ]
+
+La pila es:[ 14604 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 18716 en pila
+Regresa: 0 [ 18716 ]
+
+La pila es:[ 18716 ]
+Inserta 19895 en pila
+Regresa: 0 [ 18716  19895 ]
+
+La pila es:[ 18716  19895 ]
+El tope de la pila es 19895
+Regresa: 0 [ 18716  19895 ]
+
+La pila es:[ 18716  19895 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 19895
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 19912 en pila
+Regresa: 0 [ 19912 ]
+
+La pila es:[ 19912 ]
+El tope de la pila es 19912
+Regresa: 0 [ 19912 ]
+
+La pila es:[ 19912 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 19912
+Regresa: 30 []
+
+La pila es:[]
+Inserta 31322 en pila
+Regresa: 0 [ 31322 ]
+
+La pila es:[ 31322 ]
+Inserta 17673 en pila
+Regresa: 0 [ 31322  17673 ]
+
+La pila es:[ 31322  17673 ]
+Inserta 15141 en pila
+Regresa: 0 [ 31322  17673  15141 ]
+
+La pila es:[ 31322  17673  15141 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 15141
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 15141
+Regresa: 30 []
+
+La pila es:[]
+Inserta 32662 en pila
+Regresa: 0 [ 32662 ]
+
+La pila es:[ 32662 ]
+Inserta 20037 en pila
+Regresa: 0 [ 32662  20037 ]
+
+La pila es:[ 32662  20037 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 20037
+Regresa: 30 []
+
+La pila es:[]
+Inserta 27529 en pila
+Regresa: 0 [ 27529 ]
+
+La pila es:[ 27529 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 27529
+Regresa: 30 []
+
+La pila es:[]
+Inserta 1842 en pila
+Regresa: 0 [ 1842 ]
+
+La pila es:[ 1842 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 19264 en pila
+Regresa: 0 [ 19264 ]
+
+La pila es:[ 19264 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 23805 en pila
+Regresa: 0 [ 23805 ]
+
+La pila es:[ 23805 ]
+Inserta 6729 en pila
+Regresa: 0 [ 23805  6729 ]
+
+La pila es:[ 23805  6729 ]
+Elimina dato de la pila
+Regresa: 0 [ 23805 ]
+
+La pila es:[ 23805 ]
+Inserta 15006 en pila
+Regresa: 0 [ 23805  15006 ]
+
+La pila es:[ 23805  15006 ]
+Inserta 24393 en pila
+Regresa: 0 [ 23805  15006  24393 ]
+
+La pila es:[ 23805  15006  24393 ]
+Inserta 19629 en pila
+Regresa: 0 [ 23805  15006  24393  19629 ]
+
+La pila es:[ 23805  15006  24393  19629 ]
+El tope de la pila es 19629
+Regresa: 0 [ 23805  15006  24393  19629 ]
+
+La pila es:[ 23805  15006  24393  19629 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 4966 en pila
+Regresa: 0 [ 4966 ]
+
+La pila es:[ 4966 ]
+Inserta 13931 en pila
+Regresa: 0 [ 4966  13931 ]
+
+La pila es:[ 4966  13931 ]
+Elimina dato de la pila
+Regresa: 0 [ 4966 ]
+
+La pila es:[ 4966 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 24626 en pila
+Regresa: 0 [ 24626 ]
+
+La pila es:[ 24626 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 24626
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 2082 en pila
+Regresa: 0 [ 2082 ]
+
+La pila es:[ 2082 ]
+Inserta 16541 en pila
+Regresa: 0 [ 2082  16541 ]
+
+La pila es:[ 2082  16541 ]
+Inserta 31115 en pila
+Regresa: 0 [ 2082  16541  31115 ]
+
+La pila es:[ 2082  16541  31115 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 2306 en pila
+Regresa: 0 [ 2306 ]
+
+La pila es:[ 2306 ]
+El tope de la pila es 2306
+Regresa: 0 [ 2306 ]
+
+La pila es:[ 2306 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 2306
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 2306
+Regresa: 30 []
+
+La pila es:[]
+Inserta 19072 en pila
+Regresa: 0 [ 19072 ]
+
+La pila es:[ 19072 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 26777 en pila
+Regresa: 0 [ 26777 ]
+
+La pila es:[ 26777 ]
+Inserta 5097 en pila
+Regresa: 0 [ 26777  5097 ]
+
+La pila es:[ 26777  5097 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 5097
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 5097
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 5097
+Regresa: 30 []
+
+La pila es:[]
+Inserta 15574 en pila
+Regresa: 0 [ 15574 ]
+
+La pila es:[ 15574 ]
+El tope de la pila es 15574
+Regresa: 0 [ 15574 ]
+
+La pila es:[ 15574 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 1150 en pila
+Regresa: 0 [ 1150 ]
+
+La pila es:[ 1150 ]
+Inserta 21724 en pila
+Regresa: 0 [ 1150  21724 ]
+
+La pila es:[ 1150  21724 ]
+Elimina dato de la pila
+Regresa: 0 [ 1150 ]
+
+La pila es:[ 1150 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 30191 en pila
+Regresa: 0 [ 30191 ]
+
+La pila es:[ 30191 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 15457 en pila
+Regresa: 0 [ 15457 ]
+
+La pila es:[ 15457 ]
+El tope de la pila es 15457
+Regresa: 0 [ 15457 ]
+
+La pila es:[ 15457 ]
+Inserta 10383 en pila
+Regresa: 0 [ 15457  10383 ]
+
+La pila es:[ 15457  10383 ]
+El tope de la pila es 10383
+Regresa: 0 [ 15457  10383 ]
+
+La pila es:[ 15457  10383 ]
+El tope de la pila es 10383
+Regresa: 0 [ 15457  10383 ]
+
+La pila es:[ 15457  10383 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 24221 en pila
+Regresa: 0 [ 24221 ]
+
+La pila es:[ 24221 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 24946 en pila
+Regresa: 0 [ 24946 ]
+
+La pila es:[ 24946 ]
+Inserta 13030 en pila
+Regresa: 0 [ 24946  13030 ]
+
+La pila es:[ 24946  13030 ]
+Inserta 29168 en pila
+Regresa: 0 [ 24946  13030  29168 ]
+
+La pila es:[ 24946  13030  29168 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 29168
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 29168
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 29168
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 29168
+Regresa: 30 []
+
+La pila es:[]
+Inserta 6483 en pila
+Regresa: 0 [ 6483 ]
+
+La pila es:[ 6483 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 3602 en pila
+Regresa: 0 [ 3602 ]
+
+La pila es:[ 3602 ]
+Inserta 10291 en pila
+Regresa: 0 [ 3602  10291 ]
+
+La pila es:[ 3602  10291 ]
+Inserta 9374 en pila
+Regresa: 0 [ 3602  10291  9374 ]
+
+La pila es:[ 3602  10291  9374 ]
+Elimina dato de la pila
+Regresa: 0 [ 3602  10291 ]
+
+La pila es:[ 3602  10291 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 27348 en pila
+Regresa: 0 [ 27348 ]
+
+La pila es:[ 27348 ]
+Inserta 19668 en pila
+Regresa: 0 [ 27348  19668 ]
+
+La pila es:[ 27348  19668 ]
+Elimina dato de la pila
+Regresa: 0 [ 27348 ]
+
+La pila es:[ 27348 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 19668
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 6900 en pila
+Regresa: 0 [ 6900 ]
+
+La pila es:[ 6900 ]
+Inserta 18127 en pila
+Regresa: 0 [ 6900  18127 ]
+
+La pila es:[ 6900  18127 ]
+El tope de la pila es 18127
+Regresa: 0 [ 6900  18127 ]
+
+La pila es:[ 6900  18127 ]
+Inserta 14893 en pila
+Regresa: 0 [ 6900  18127  14893 ]
+
+La pila es:[ 6900  18127  14893 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 14893
+Regresa: 30 []
+
+La pila es:[]
+Inserta 14310 en pila
+Regresa: 0 [ 14310 ]
+
+La pila es:[ 14310 ]
+El tope de la pila es 14310
+Regresa: 0 [ 14310 ]
+
+La pila es:[ 14310 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 14310
+Regresa: 30 []
+
+La pila es:[]
+Inserta 18935 en pila
+Regresa: 0 [ 18935 ]
+
+La pila es:[ 18935 ]
+Inserta 20600 en pila
+Regresa: 0 [ 18935  20600 ]
+
+La pila es:[ 18935  20600 ]
+El tope de la pila es 20600
+Regresa: 0 [ 18935  20600 ]
+
+La pila es:[ 18935  20600 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 22798 en pila
+Regresa: 0 [ 22798 ]
+
+La pila es:[ 22798 ]
+Inserta 6224 en pila
+Regresa: 0 [ 22798  6224 ]
+
+La pila es:[ 22798  6224 ]
+Elimina dato de la pila
+Regresa: 0 [ 22798 ]
+
+La pila es:[ 22798 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 6224
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 3195 en pila
+Regresa: 0 [ 3195 ]
+
+La pila es:[ 3195 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 14343 en pila
+Regresa: 0 [ 14343 ]
+
+La pila es:[ 14343 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 29314 en pila
+Regresa: 0 [ 29314 ]
+
+La pila es:[ 29314 ]
+El tope de la pila es 29314
+Regresa: 0 [ 29314 ]
+
+La pila es:[ 29314 ]
+Inserta 25200 en pila
+Regresa: 0 [ 29314  25200 ]
+
+La pila es:[ 29314  25200 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 14798 en pila
+Regresa: 0 [ 14798 ]
+
+La pila es:[ 14798 ]
+El tope de la pila es 14798
+Regresa: 0 [ 14798 ]
+
+La pila es:[ 14798 ]
+El tope de la pila es 14798
+Regresa: 0 [ 14798 ]
+
+La pila es:[ 14798 ]
+Inserta 28009 en pila
+Regresa: 0 [ 14798  28009 ]
+
+La pila es:[ 14798  28009 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 24179 en pila
+Regresa: 0 [ 24179 ]
+
+La pila es:[ 24179 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 24179
+Regresa: 30 []
+
+La pila es:[]
+Inserta 6191 en pila
+Regresa: 0 [ 6191 ]
+
+La pila es:[ 6191 ]
+Inserta 22888 en pila
+Regresa: 0 [ 6191  22888 ]
+
+La pila es:[ 6191  22888 ]
+Elimina dato de la pila
+Regresa: 0 [ 6191 ]
+
+La pila es:[ 6191 ]
+Inserta 16202 en pila
+Regresa: 0 [ 6191  16202 ]
+
+La pila es:[ 6191  16202 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 20055 en pila
+Regresa: 0 [ 20055 ]
+
+La pila es:[ 20055 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 26362 en pila
+Regresa: 0 [ 26362 ]
+
+La pila es:[ 26362 ]
+Inserta 18875 en pila
+Regresa: 0 [ 26362  18875 ]
+
+La pila es:[ 26362  18875 ]
+El tope de la pila es 18875
+Regresa: 0 [ 26362  18875 ]
+
+La pila es:[ 26362  18875 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 18875
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 18651 en pila
+Regresa: 0 [ 18651 ]
+
+La pila es:[ 18651 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 18651
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 18651
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 18651
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 18651
+Regresa: 30 []
+
+La pila es:[]
+Inserta 2600 en pila
+Regresa: 0 [ 2600 ]
+
+La pila es:[ 2600 ]
+Inserta 21003 en pila
+Regresa: 0 [ 2600  21003 ]
+
+La pila es:[ 2600  21003 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 21003
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 9789 en pila
+Regresa: 0 [ 9789 ]
+
+La pila es:[ 9789 ]
+Inserta 16423 en pila
+Regresa: 0 [ 9789  16423 ]
+
+La pila es:[ 9789  16423 ]
+Elimina dato de la pila
+Regresa: 0 [ 9789 ]
+
+La pila es:[ 9789 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 10285 en pila
+Regresa: 0 [ 10285 ]
+
+La pila es:[ 10285 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 23757 en pila
+Regresa: 0 [ 23757 ]
+
+La pila es:[ 23757 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 4169 en pila
+Regresa: 0 [ 4169 ]
+
+La pila es:[ 4169 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 4169
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 4169
+Regresa: 30 []
+
+La pila es:[]
+Inserta 31329 en pila
+Regresa: 0 [ 31329 ]
+
+La pila es:[ 31329 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 31329
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 16549 en pila
+Regresa: 0 [ 16549 ]
+
+La pila es:[ 16549 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 30145 en pila
+Regresa: 0 [ 30145 ]
+
+La pila es:[ 30145 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 16139 en pila
+Regresa: 0 [ 16139 ]
+
+La pila es:[ 16139 ]
+Inserta 16279 en pila
+Regresa: 0 [ 16139  16279 ]
+
+La pila es:[ 16139  16279 ]
+Elimina dato de la pila
+Regresa: 0 [ 16139 ]
+
+La pila es:[ 16139 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 16279
+Regresa: 30 []
+
+La pila es:[]
+Inserta 20416 en pila
+Regresa: 0 [ 20416 ]
+
+La pila es:[ 20416 ]
+Inserta 16105 en pila
+Regresa: 0 [ 20416  16105 ]
+
+La pila es:[ 20416  16105 ]
+Inserta 16282 en pila
+Regresa: 0 [ 20416  16105  16282 ]
+
+La pila es:[ 20416  16105  16282 ]
+El tope de la pila es 16282
+Regresa: 0 [ 20416  16105  16282 ]
+
+La pila es:[ 20416  16105  16282 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 20671 en pila
+Regresa: 0 [ 20671 ]
+
+La pila es:[ 20671 ]
+Inserta 12263 en pila
+Regresa: 0 [ 20671  12263 ]
+
+La pila es:[ 20671  12263 ]
+El tope de la pila es 12263
+Regresa: 0 [ 20671  12263 ]
+
+La pila es:[ 20671  12263 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 20053 en pila
+Regresa: 0 [ 20053 ]
+
+La pila es:[ 20053 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 1832 en pila
+Regresa: 0 [ 1832 ]
+
+La pila es:[ 1832 ]
+El tope de la pila es 1832
+Regresa: 0 [ 1832 ]
+
+La pila es:[ 1832 ]
+El tope de la pila es 1832
+Regresa: 0 [ 1832 ]
+
+La pila es:[ 1832 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 7129 en pila
+Regresa: 0 [ 7129 ]
+
+La pila es:[ 7129 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 20450 en pila
+Regresa: 0 [ 20450 ]
+
+La pila es:[ 20450 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 12044 en pila
+Regresa: 0 [ 12044 ]
+
+La pila es:[ 12044 ]
+El tope de la pila es 12044
+Regresa: 0 [ 12044 ]
+
+La pila es:[ 12044 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 17253 en pila
+Regresa: 0 [ 17253 ]
+
+La pila es:[ 17253 ]
+Inserta 26154 en pila
+Regresa: 0 [ 17253  26154 ]
+
+La pila es:[ 17253  26154 ]
+Inserta 4745 en pila
+Regresa: 0 [ 17253  26154  4745 ]
+
+La pila es:[ 17253  26154  4745 ]
+Inserta 13186 en pila
+Regresa: 0 [ 17253  26154  4745  13186 ]
+
+La pila es:[ 17253  26154  4745  13186 ]
+Inserta 4474 en pila
+Regresa: 0 [ 17253  26154  4745  13186  4474 ]
+
+La pila es:[ 17253  26154  4745  13186  4474 ]
+Inserta 2168 en pila
+Regresa: 0 [ 17253  26154  4745  13186  4474  2168 ]
+
+La pila es:[ 17253  26154  4745  13186  4474  2168 ]
+Inserta 18787 en pila
+Regresa: 0 [ 17253  26154  4745  13186  4474  2168  18787 ]
+
+La pila es:[ 17253  26154  4745  13186  4474  2168  18787 ]
+El tope de la pila es 18787
+Regresa: 0 [ 17253  26154  4745  13186  4474  2168  18787 ]
+
+La pila es:[ 17253  26154  4745  13186  4474  2168  18787 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 18787
+Regresa: 30 []
+
+La pila es:[]
+Inserta 3625 en pila
+Regresa: 0 [ 3625 ]
+
+La pila es:[ 3625 ]
+El tope de la pila es 3625
+Regresa: 0 [ 3625 ]
+
+La pila es:[ 3625 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 25824 en pila
+Regresa: 0 [ 25824 ]
+
+La pila es:[ 25824 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 24372 en pila
+Regresa: 0 [ 24372 ]
+
+La pila es:[ 24372 ]
+El tope de la pila es 24372
+Regresa: 0 [ 24372 ]
+
+La pila es:[ 24372 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 7487 en pila
+Regresa: 0 [ 7487 ]
+
+La pila es:[ 7487 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 7487
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 1763 en pila
+Regresa: 0 [ 1763 ]
+
+La pila es:[ 1763 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 13985 en pila
+Regresa: 0 [ 13985 ]
+
+La pila es:[ 13985 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 29213 en pila
+Regresa: 0 [ 29213 ]
+
+La pila es:[ 29213 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 4099 en pila
+Regresa: 0 [ 4099 ]
+
+La pila es:[ 4099 ]
+El tope de la pila es 4099
+Regresa: 0 [ 4099 ]
+
+La pila es:[ 4099 ]
+Inserta 1543 en pila
+Regresa: 0 [ 4099  1543 ]
+
+La pila es:[ 4099  1543 ]
+Elimina dato de la pila
+Regresa: 0 [ 4099 ]
+
+La pila es:[ 4099 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 13061 en pila
+Regresa: 0 [ 13061 ]
+
+La pila es:[ 13061 ]
+Inserta 31003 en pila
+Regresa: 0 [ 13061  31003 ]
+
+La pila es:[ 13061  31003 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 27593 en pila
+Regresa: 0 [ 27593 ]
+
+La pila es:[ 27593 ]
+Inserta 13031 en pila
+Regresa: 0 [ 27593  13031 ]
+
+La pila es:[ 27593  13031 ]
+Inserta 142 en pila
+Regresa: 0 [ 27593  13031  142 ]
+
+La pila es:[ 27593  13031  142 ]
+Inserta 31286 en pila
+Regresa: 0 [ 27593  13031  142  31286 ]
+
+La pila es:[ 27593  13031  142  31286 ]
+Inserta 7900 en pila
+Regresa: 0 [ 27593  13031  142  31286  7900 ]
+
+La pila es:[ 27593  13031  142  31286  7900 ]
+El tope de la pila es 7900
+Regresa: 0 [ 27593  13031  142  31286  7900 ]
+
+La pila es:[ 27593  13031  142  31286  7900 ]
+Inserta 22413 en pila
+Regresa: 0 [ 27593  13031  142  31286  7900  22413 ]
+
+La pila es:[ 27593  13031  142  31286  7900  22413 ]
+Inserta 14270 en pila
+Regresa: 0 [ 27593  13031  142  31286  7900  22413  14270 ]
+
+La pila es:[ 27593  13031  142  31286  7900  22413  14270 ]
+Elimina dato de la pila
+Regresa: 0 [ 27593  13031  142  31286  7900  22413 ]
+
+La pila es:[ 27593  13031  142  31286  7900  22413 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 14270
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 18896 en pila
+Regresa: 0 [ 18896 ]
+
+La pila es:[ 18896 ]
+El tope de la pila es 18896
+Regresa: 0 [ 18896 ]
+
+La pila es:[ 18896 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 13694 en pila
+Regresa: 0 [ 13694 ]
+
+La pila es:[ 13694 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 13694
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 21694 en pila
+Regresa: 0 [ 21694 ]
+
+La pila es:[ 21694 ]
+Inserta 26302 en pila
+Regresa: 0 [ 21694  26302 ]
+
+La pila es:[ 21694  26302 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 4678 en pila
+Regresa: 0 [ 4678 ]
+
+La pila es:[ 4678 ]
+Inserta 23851 en pila
+Regresa: 0 [ 4678  23851 ]
+
+La pila es:[ 4678  23851 ]
+Inserta 1018 en pila
+Regresa: 0 [ 4678  23851  1018 ]
+
+La pila es:[ 4678  23851  1018 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 1018
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 31060 en pila
+Regresa: 0 [ 31060 ]
+
+La pila es:[ 31060 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 31060
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 31060
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 31060
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 7882 en pila
+Regresa: 0 [ 7882 ]
+
+La pila es:[ 7882 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 3487 en pila
+Regresa: 0 [ 3487 ]
+
+La pila es:[ 3487 ]
+Inserta 14474 en pila
+Regresa: 0 [ 3487  14474 ]
+
+La pila es:[ 3487  14474 ]
+Inserta 25627 en pila
+Regresa: 0 [ 3487  14474  25627 ]
+
+La pila es:[ 3487  14474  25627 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 25423 en pila
+Regresa: 0 [ 25423 ]
+
+La pila es:[ 25423 ]
+Inserta 6902 en pila
+Regresa: 0 [ 25423  6902 ]
+
+La pila es:[ 25423  6902 ]
+Elimina dato de la pila
+Regresa: 0 [ 25423 ]
+
+La pila es:[ 25423 ]
+Inserta 24596 en pila
+Regresa: 0 [ 25423  24596 ]
+
+La pila es:[ 25423  24596 ]
+El tope de la pila es 24596
+Regresa: 0 [ 25423  24596 ]
+
+La pila es:[ 25423  24596 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 24596
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 20326 en pila
+Regresa: 0 [ 20326 ]
+
+La pila es:[ 20326 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 6411 en pila
+Regresa: 0 [ 6411 ]
+
+La pila es:[ 6411 ]
+El tope de la pila es 6411
+Regresa: 0 [ 6411 ]
+
+La pila es:[ 6411 ]
+Inserta 21520 en pila
+Regresa: 0 [ 6411  21520 ]
+
+La pila es:[ 6411  21520 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 30188 en pila
+Regresa: 0 [ 30188 ]
+
+La pila es:[ 30188 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 20851 en pila
+Regresa: 0 [ 20851 ]
+
+La pila es:[ 20851 ]
+Inserta 13829 en pila
+Regresa: 0 [ 20851  13829 ]
+
+La pila es:[ 20851  13829 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 13829
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 13829
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 13829
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 6477 en pila
+Regresa: 0 [ 6477 ]
+
+La pila es:[ 6477 ]
+Inserta 21113 en pila
+Regresa: 0 [ 6477  21113 ]
+
+La pila es:[ 6477  21113 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 14460 en pila
+Regresa: 0 [ 14460 ]
+
+La pila es:[ 14460 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 27384 en pila
+Regresa: 0 [ 27384 ]
+
+La pila es:[ 27384 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 1626 en pila
+Regresa: 0 [ 1626 ]
+
+La pila es:[ 1626 ]
+Inserta 8526 en pila
+Regresa: 0 [ 1626  8526 ]
+
+La pila es:[ 1626  8526 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 23271 en pila
+Regresa: 0 [ 23271 ]
+
+La pila es:[ 23271 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 12896 en pila
+Regresa: 0 [ 12896 ]
+
+La pila es:[ 12896 ]
+Inserta 29617 en pila
+Regresa: 0 [ 12896  29617 ]
+
+La pila es:[ 12896  29617 ]
+Inserta 12717 en pila
+Regresa: 0 [ 12896  29617  12717 ]
+
+La pila es:[ 12896  29617  12717 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 12717
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 12717
+Regresa: 30 []
+
+La pila es:[]
+Inserta 24129 en pila
+Regresa: 0 [ 24129 ]
+
+La pila es:[ 24129 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 24129
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 24129
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 24129
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 29734 en pila
+Regresa: 0 [ 29734 ]
+
+La pila es:[ 29734 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 29734
+Regresa: 30 []
+
+La pila es:[]
+Inserta 2963 en pila
+Regresa: 0 [ 2963 ]
+
+La pila es:[ 2963 ]
+Inserta 2483 en pila
+Regresa: 0 [ 2963  2483 ]
+
+La pila es:[ 2963  2483 ]
+El tope de la pila es 2483
+Regresa: 0 [ 2963  2483 ]
+
+La pila es:[ 2963  2483 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+El tope de la pila es 2483
+Regresa: 30 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 2223 en pila
+Regresa: 0 [ 2223 ]
+
+La pila es:[ 2223 ]
+Inserta 23754 en pila
+Regresa: 0 [ 2223  23754 ]
+
+La pila es:[ 2223  23754 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 21459 en pila
+Regresa: 0 [ 21459 ]
+
+La pila es:[ 21459 ]
+El tope de la pila es 21459
+Regresa: 0 [ 21459 ]
+
+La pila es:[ 21459 ]
+El tope de la pila es 21459
+Regresa: 0 [ 21459 ]
+
+La pila es:[ 21459 ]
+Inserta 1626 en pila
+Regresa: 0 [ 21459  1626 ]
+
+La pila es:[ 21459  1626 ]
+Inserta 15205 en pila
+Regresa: 0 [ 21459  1626  15205 ]
+
+La pila es:[ 21459  1626  15205 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 12193 en pila
+Regresa: 0 [ 12193 ]
+
+La pila es:[ 12193 ]
+Inserta 1637 en pila
+Regresa: 0 [ 12193  1637 ]
+
+La pila es:[ 12193  1637 ]
+Inserta 5556 en pila
+Regresa: 0 [ 12193  1637  5556 ]
+
+La pila es:[ 12193  1637  5556 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 10548 en pila
+Regresa: 0 [ 10548 ]
+
+La pila es:[ 10548 ]
+El tope de la pila es 10548
+Regresa: 0 [ 10548 ]
+
+La pila es:[ 10548 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 19855 en pila
+Regresa: 0 [ 19855 ]
+
+La pila es:[ 19855 ]
+Inserta 13142 en pila
+Regresa: 0 [ 19855  13142 ]
+
+La pila es:[ 19855  13142 ]
+Inserta 27611 en pila
+Regresa: 0 [ 19855  13142  27611 ]
+
+La pila es:[ 19855  13142  27611 ]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 1752 en pila
+Regresa: 0 [ 1752 ]
+
+La pila es:[ 1752 ]
+El tope de la pila es 1752
+Regresa: 0 [ 1752 ]
+
+La pila es:[ 1752 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 9313 en pila
+Regresa: 0 [ 9313 ]
+
+La pila es:[ 9313 ]
+El tope de la pila es 9313
+Regresa: 0 [ 9313 ]
+
+La pila es:[ 9313 ]
+Inserta 12818 en pila
+Regresa: 0 [ 9313  12818 ]
+
+La pila es:[ 9313  12818 ]
+Elimina dato de la pila
+Regresa: 0 [ 9313 ]
+
+La pila es:[ 9313 ]
+Inserta 14932 en pila
+Regresa: 0 [ 9313  14932 ]
+
+La pila es:[ 9313  14932 ]
+Inserta 30695 en pila
+Regresa: 0 [ 9313  14932  30695 ]
+
+La pila es:[ 9313  14932  30695 ]
+El tope de la pila es 30695
+Regresa: 0 [ 9313  14932  30695 ]
+
+La pila es:[ 9313  14932  30695 ]
+El tope de la pila es 30695
+Regresa: 0 [ 9313  14932  30695 ]
+
+La pila es:[ 9313  14932  30695 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+El tope de la pila es 30695
+Regresa: 30 []
+
+La pila es:[]
+Elimina dato de la pila
+Regresa: 30 []
+
+La pila es:[]
+Inserta 2589 en pila
+Regresa: 0 [ 2589 ]
+
+La pila es:[ 2589 ]
+Elimina dato de la pila
+Regresa: 0 []
+
+La pila es:[]
+Elimina toda la pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 19314 en pila
+Regresa: 0 [ 19314 ]
+
+La pila es:[ 19314 ]
+Inserta 26740 en pila
+Regresa: 0 [ 19314  26740 ]
+
+La pila es:[ 19314  26740 ]
+Crea pila
+Regresa: 0 []
+
+La pila es:[]
+Inserta 335 en pila
+Regresa: 0 [ 335 ]
+
+La pila es:[ 335 ]
+El tope de la pila es 335
+Regresa: 0 [ 335 ]
+
+La pila es:[ 335 ]
+Inserta 7605 en pila
+Regresa: 0 [ 335  7605 ]
+
+La pila es:[ 335  7605 ]
+Elimina dato de la pila
+Regresa: 0 [ 335 ]
+

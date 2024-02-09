@@ -1,0 +1,34 @@
+JULIO CESAR HERNANDEZ REYES  [ iii)  1  a) ]
+Objetivo: Agregar funciones al código que implementa una lista y se revisó en la tarea.
+Para esta práctica debes agregar funciones al código que implementa la lista y revisaste
+en la T24. Debes agregar tres funciones, las que te toquen según la lista.
+Para cada función que hagas debes hacer una función main que pruebe exhaustivamente 
+el comportamiento. En caso de que requieras modificar un valor usa paso de parámetro
+por referencia para que todas las funciones regresen error si no consiguen realizar
+su objetivo o OK en caso contrario.
+ 
+Todas las funciones deben tener control de errores:
+1) Validar los parámetros: apuntadores nulos y valores adecuados para realizar la operación correspondiente.
+2) Inicializar variables locales, NUNCA usar variables globales.
+3) Realizar la operación solicitada
+4) Regresar OK.
+
+iii) Copiar y pegar. Dada una lista y un rango copiar ese rango a una posición dada. 
+Por ejemplo: Si la lista es {"siete", "seis", "cinco", "cuatro", "tres", "dos", "uno", "cero"}
+ y se desea pasar del elemento 2 al 4 a la posición 6 la lista se modifica para convertirse en
+ {"siete", "seis", "cinco", "cuatro", "tres", "dos", "cinco", "cuatro", "tres", "uno", "cero"}.
+
+1. Extraer de una lista un rango. Por ejemplo: dada la lista
+ {"uno", "dos", "tres", "cuatro", "cinco", "seis", "siete"}
+ obtener otra que sólo tiene de la posición 3 a la 5 sería 
+ {"cuatro", "cinco", "seis"}.
+
+a) Contar elementos que cumplen un criterio. Dada una lista y un apuntador a función que
+recibe un dato de la lista y regresa 0 o diferente de cero contar todos los elementos de la
+lista para los que al evaluar la función se obtiene un diferente de cero. Ejemplo: Si se tiene
+{"uno", "dos", "tres", "cuatro", "cinco", "seis", "siete"} y la función es: 1 si la longitud de la
+cadena es 3 y cero en otro caso. Entonces la función regresa 2, porque sólo hay dos
+elementos con longitud 3.
+
+cd OneDrive\Documentos\AlgoEstrucDat\TercerParcial\P31\SRC
+gcc main1.c lista.c nodo.c

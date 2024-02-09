@@ -4,10 +4,13 @@
 
 - <b>P11</b>
   - [Polynomial with rational coefficients](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures/tree/main/P11-PolinomioConCoeficientesRacionales)
+
 - <b>P12</b>
   - [Shell algorithm implementation](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures/tree/main/P12-ImplementacionDelAlgoritmoSHELL)
+    
 - <b>P21</b>
   - [Simulate train tracks](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures/tree/main/P21-SimularLasViasDelTren)
+    
 - <b>P22</b>
   - [Evaluate expressions](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures/tree/main/P22-EvaluarExpresiones)
   
@@ -16,6 +19,7 @@
     
 
 <h2> Other Codes </h2>
+
 - <b>Busquedas</b>
   - [Searches](https://github.com/hernandezr-jcesar/Algorithms-And-Data-Structures/tree/main/Busquedas)
 

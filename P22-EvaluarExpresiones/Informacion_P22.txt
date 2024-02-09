@@ -1,0 +1,93 @@
+Expresion infija
+(a+b)/2
+Expresion posfija
+ab+2/
+Los elementos van primero y despues las operaciones
+
+Existen 3 versiones de colas
+1.Que recorre cada que inserta datos.
+2.Que recorre solo cuando el fin llega al estremo del arreglo.
+3.Cola circular, nunca recorre los datos.
+
+Evaluar expresiones
+-Una expresion es una ccadena con las operaciones que se haver con 
+un lenguaje de programacion,por ejemplo: 1+2 o (5+6)/(1-8)*(9-4) o cualquier otra.
+- Hay tres ejemplod tipicos de uso de una pila:
+ 1) -verificar que los parentesis en una cadena estan bien casados(es decir no aparecen impares
+  o uno que avre y no cierra o cierra y no abre)
+ 2) -Convertir expresiones infijas a posfijas
+ 3) -Evaluar las expresiones
+-El codico de estos tres ejemplos, entre otros, se encuentra en las copuas del libro:
+Data Structures using C de Thareha en la seccion 7.7 pagina 230
+
+1) Ejemplo de verificar parentesis
+se tienen los datos en una cadena y una pila en donde se guardaran 
+y sacaran los parentesis,llaves,corchetes,etc
+
+Algoritmo para verificar parentesis
+
+-Para todos los caracteres de la expresion
+  -Si es Parentesis que abre entonces a la pila (push)
+  -Es parentesis que cierra
+    -Si la pila esta vacia
+	  -Cadena no valida
+	-Si no
+	  -Si el tope de de la pila NO casa con el parentesis analizado
+	    -Cadena invalida
+	  -Si no pop()
+-Si la pila no esta vacia
+ -Cadena invalida
+-Si no
+  -Cadena correcta
+  
+2)Ejemplo de convertir infija a posfija
+-Se tiene una cadena de entrada con notacion infija y 
+regresa una cadena de salida con la misma expresion pero en notacion posfija.
+-Se va a tener un simbolo que va a convertir el elemento que este en la 
+cadena de entrada en eun simbolo que se va a ir analisando
+-Se tiene una pila para ir guardando los elementos que se necesiten
+
+Algoritmo para convetir infija a posfija
+
+-Para todos los caracteres 
+  -Simbolo=siguiente elemento
+  -Si el simbolo es operando 
+    -Agregar simbolo a salida
+  -Sino
+    -Sacar de la pila mientras el tope tenga precedencia mayor o 
+	 igual a simbolo y agrega a la salida
+	-Agregar a la pila el simbolo
+-Agregar a la salida todos los elementos de la pila
+ 
+
+3)Ejemplo de evaluar expresiones
+-Se necesita un cadena de entrada en exprecion posfija, 
+separando los valores con un separador(un espacio en blanco entre cada elemento)
+-Se tendra un resultado obtenido de las operaciones de la cadena
+-Se necesitara un simbolo para comparar y guardar valores
+-Se necesitara una pila para guardar todo lo que se vaya necesitando
+
+Algoritmo para evaluar expresiones
+-Para toda la cadena
+  -simbolo=siguiente elemento
+  -Si el simbolo es operando
+    -Agregar a la pila simbolo
+  -Sino
+    -Tomar dos elementos de la 
+	pila, aplicar el operador y 
+	agregar resultado a la pila
+-Elemento en la pila es el resultado
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

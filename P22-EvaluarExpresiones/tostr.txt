@@ -1,0 +1,78 @@
+
+Funciones para depurar 
+ToStro
+ -Se comienza con "Hola mundo"
+ -Funcionalidad<->Verificar la funcionalidad
+ -Convertir la representacion interna en cadenas de caracteres
+  -char->codigos ASCII
+  -int ->Binario complemendo a dos
+  -float->Estandar IEEE 754
+La funcin printf es la que imprime por pantalla lo que se le pida
+una imagen en codigo ASCII como lo es el @ se puede imprimir como 
+texto, entero, hexadecimal, y el valor del byte.
+Ejemplo de codigo que imprime @ de diferentes formas.
+ 
+#include <stdio.h>
+int main (){
+  unsigned int x;
+  char* y;
+  x= 0x40414243;
+  y=(char*)&x;
+  printf("%c %c %c %c\n",y[0],y[1],y[2],y[3]);
+  return 0;
+}
+
+Familia de funciones
+Printf 
+  printf		%c
+  fprintf		%i
+  sprintf		%f
+Scanf		  	%p
+  scanf
+  fscanf
+  sscanf
+
+-En c una cadena es un apuntador a caracteres
+ -no se sabe cuantos elementos tiene la cadena
+ -se requiere un caracter de fin de cadena '\0'
+ -se puede revasar el tamanio del arreglo
+   -funciines para usasr cadenas:strcpy, strcat, strcmp
+-Otras representaciones
+  -Apuntador y tamanio
+  -Representaciones dinamicas
+  
+Hay que tener mucho cuidado a la hora de manejar cadenas con valores que no estan
+en los elemntos que estas usando porque en c no sabe el numero de caracteres solo 
+sabe que debe imprimir hasta encontrar '\0'
+EJEMPLE DE USO DE STRCPY
+  #include<stdio.h>
+  #include<string.h>
+  int main(){
+    char z[17];
+	
+	strcpy(z,"Esto es un ejemplo");
+	printf("(%s)\n",z);
+  }
+ 
+ Funciones para depurar
+-Crear datos propios(TDA)
+  -no hay un nombte estandar(en Java si lo hay).
+    -to_str_pol, acad_pol, polToStr, polACad,.. 
+-Evitar tener que agregar codigo para verificar las variables del progama al depurar
+¡Problema!
+ -El tamanio de la cadena en que se almacenara la representacion
+ 
+ EJEMPLO de un dato tostr_pil
+ char* tostr_pil(char* s, const pila* p){
+   char dato[TAMDAT];
+   int i;
+   if(!(AP_VAL(s)&&AP_\(p)))
+   return s;
+   strcpy (s,"[");
+   for(i=0;i<p->tope;i++){
+     sprintf(dato, FORMATO, p->dato[i]);
+	 strcat(s,dato);
+   }
+   strcat(s,"]\n");
+   return s;
+ }
